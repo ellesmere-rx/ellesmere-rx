@@ -7,12 +7,13 @@
 <br><br>
 <div width="50%">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ellesmere-rx&theme=github-dark-dimmed&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellesmere-rx&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellesmere-rx&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
