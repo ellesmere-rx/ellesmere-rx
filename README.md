@@ -8,7 +8,6 @@
 <div width="50%">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ellesmere-rx&theme=github-dark-dimmed&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 <br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellesmere-rx&layout=compact&theme=github_dark_dimmed" alt="Top Languages" /></a>
 </div>
 </div>
 <br>
@@ -18,7 +17,7 @@
 ---
 
 <div align="center">
-<a href="https://t.me/ellesmere66">
+<a href="https://t.me/ellesmere_rx">
   <img src="https://img.shields.io/badge/Telegram-%230D1117?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
